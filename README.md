@@ -8,7 +8,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square)
-![LuaRocks](https://img.shields.io/badges/lua‐rocks-lightgrey?logo=lua&style=flat-square)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logoColor=white&labelColor=blue)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="14" />
+
 
 ## 🔗 Latest Content  
 - none
