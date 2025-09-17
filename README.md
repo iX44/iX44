@@ -32,6 +32,6 @@
 - I sometimes play TFT and Valorant (used to played CS but not anymore)
 
 ---
-
-> “Im fucking lazy to argue and bash against so do whatever you want”
-
+## Smaller things
+- I do respect the discord.js community, even i'm interesting in them, but fuck the raid bot scripters.
+- I do not like the non-credits thief too, so if you are one of them, fuck off.
