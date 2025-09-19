@@ -33,5 +33,4 @@
 
 ---
 ## Smaller things
-- I do respect the discord.js community, even i'm interesting in them, but fuck the raid bot scripters.
-- I do not like the non-credits thief too, so if you are one of them, fuck off.
+- Go away if nothing interests you in my repo, i dont have time to argue
